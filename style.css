@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
+    display: block;
+}
+
+body {
+    font: 12px/18px sans-serif;
+    width: 100%;
+}
+
+.wrapper {
+    min-width: 650px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+
+/* Header
+-----------------------------------------------------------------------------*/
+.header {
+
+}
+
+.fio {
+    text-align: center;
+    font-size: large;
+}
+
+.intro {
+    display: flex;
+
+}
+
+.title {
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contacts {
+    width: 100%;
+    padding: 2em 0 0 12em;
+}
+
+.contacts h5 {
+    margin-bottom: 0.5em;
+}
+
+.contacts h4 {
+    margin: 0.5em 0;
+}
+
+.ava {
+    padding-right: 8em;
+}
+
+/* Middle
+-----------------------------------------------------------------------------*/
+.content {
+    padding: 3em 0 0 12em;
+}
+
+
+/* Footer
+-----------------------------------------------------------------------------*/
+.footer {
+    padding: 3em 0 0 12em;
+    height: 100px;
+
+}
