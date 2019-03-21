@@ -16,7 +16,7 @@ p {
     font-size: 1.2em;
     font-weight: bold;
     font-family: fantasy;
-    color: dimgray;
+    color: gray;
 }
 
 h5 {
@@ -33,7 +33,7 @@ a {
 }
 
 a:hover {
-    color: #5c5c5c;
+    color: #515151;
 }
 
 
@@ -48,7 +48,6 @@ a:hover {
 /* Header
 -----------------------------------------------------------------------------*/
 .header {
-
 }
 
 .fio {
@@ -58,7 +57,6 @@ a:hover {
 
 .intro {
     display: flex;
-
 }
 
 .title {
@@ -89,7 +87,6 @@ a:hover {
 }
 
 .links a {
-
     font-weight: bold;
 }
 
@@ -105,5 +102,4 @@ a:hover {
 .footer {
     padding: 3em 0 0 12em;
     height: 100px;
-
 }
