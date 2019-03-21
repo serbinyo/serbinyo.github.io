@@ -14,7 +14,7 @@ body {
 
 .wrapper {
     min-width: 650px;
-    max-width: 1200px;
+    max-width: 1000px;
     margin: 0 auto;
 }
 
@@ -68,6 +68,7 @@ h4 {
 .disqus {
     margin-top: 4em;
     padding-top: 2em;
+    padding-right: 3em;
 }
 
 
