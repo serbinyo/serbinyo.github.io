@@ -12,10 +12,36 @@ body {
     width: 100%;
 }
 
+p {
+    font-size: 1.2em;
+    font-weight: bold;
+    font-family: fantasy;
+    color: dimgray;
+}
+
+h5 {
+    margin-bottom: 0.5em;
+}
+
+h4 {
+    margin: 0.5em 0;
+}
+
+a {
+    text-decoration: none;
+    color: gray;
+}
+
+a:hover {
+    color: #5c5c5c;
+}
+
+
 .wrapper {
     min-width: 650px;
     max-width: 1000px;
     margin: 0 auto;
+    padding-right: 4em;
 }
 
 
@@ -47,16 +73,9 @@ body {
     padding: 2em 0 0 12em;
 }
 
-h5 {
-    margin-bottom: 0.5em;
-}
-
-h4 {
-    margin: 0.5em 0;
-}
-
 .ava {
-    padding-right: 8em;
+    padding-top: 1em;
+    padding-right: 7em;
 }
 
 /* Middle
@@ -65,10 +84,19 @@ h4 {
     padding: 3em 0 0 12em;
 }
 
+.links p {
+    margin: 0.5em 0;
+}
+
+.links a {
+
+    font-weight: bold;
+}
+
 .disqus {
-    margin-top: 4em;
+    margin-top: 2.5em;
     padding-top: 2em;
-    padding-right: 3em;
+    padding-right: 7em;
 }
 
 
